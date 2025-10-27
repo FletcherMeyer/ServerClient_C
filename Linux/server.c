@@ -4,7 +4,7 @@
 #include <sys/socket.h>
 #include <sys/types.h>
 
-#define PORT 9001
+#define PORT 6767
 
 int main(int argc, char const* argv[]) {
     printf("[NOTICE]: Server started. Listening on port ")
